@@ -4,5 +4,5 @@ This repository is for materials, data, and code related to "Wiring and connecti
 
 
 ## EM dataset
-Image data can be accessed on CATMAID: https://radagast.hms.harvard.edu/catmaidaedes, with username "aedes_viewer" and password "asdfjkl;". 
-Then click on projects --> aedes_r194_flower
+
+Image data can be accessed through [CATMAID](https://radagast.hms.harvard.edu/catmaidaedes/?pid=1&zp=173280&yp=235408&xp=324692&tool=navigator&sid0=1&s0=1)
