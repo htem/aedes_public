@@ -8,6 +8,6 @@ This repository is for materials, data, and code related to "Wiring and connecti
 Image data can be accessed through [CATMAID](https://radagast.hms.harvard.edu/catmaidaedes/?pid=1&zp=173280&yp=235408&xp=324692&tool=navigator&sid0=1&s0=1)
 
 
-## Connectivity Modeling
+## Connectivity modeling
 
 The code for the connectivity model can be found in the python notebook located [here](https://github.com/htem/aedes_public/tree/main/model)
