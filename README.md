@@ -1,6 +1,6 @@
 # aedes_public
 
-This repository is for materials, data, and code related to "Wiring and connectivity supporting CO2 sensitization in the <i>Aedes aegypti</i> mosquito". This repo is currently under active development. If you would like accesss to specific data/code that is not yet available here, please contact wei-chung_lee[at]hms.harvard.edu.
+This repository is for materials, data, and code related to "Recurrent synapses between CO2-sensitive olfactory sensory neurons necessary for robust CO2 detection in <i>Aedes aegypti</i> mosquitoes". This repo is currently under active development. If you would like accesss to specific data/code that is not yet available here, please contact wei-chung_lee[at]hms.harvard.edu.
 
 
 ## EM dataset
